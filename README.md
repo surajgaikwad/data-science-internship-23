@@ -1,1 +1,1 @@
-# data-science-internship-23
+# data_science_internship_23
